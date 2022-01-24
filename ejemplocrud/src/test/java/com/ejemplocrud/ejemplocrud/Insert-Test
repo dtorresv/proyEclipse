@@ -1,0 +1,2 @@
+INSERT INTO public.trabajador (apellidos,direccion,email,nombre,telefono)
+	VALUES ('sdsdf','sdfgsdff','dffgsdff','sdffgs','gsdfgg')
